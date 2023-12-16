@@ -15,3 +15,25 @@ To use the program, enter the original text and the decryption text, and click o
 ### 3. Note
 The program takes approximately 1-2 minutes to run, so please be patient. :)
 
+## Citation
+
+If you find this work useful for your research, please consider citing the paper:
+
+```bibtex
+@INPROCEEDINGS{10348240,
+  author={Rasheed, Areeg Fahad and Zarkoosh, M. and Abbas, Safa F.},
+  booktitle={2023 Sixth International Conference on Vocational Education and Electrical Engineering (ICVEE)}, 
+  title={Comprehensive Evaluation of Encryption Algorithms: A Study of 22 Performance Tests}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={191-194},
+  doi={10.1109/ICVEE59738.2023.10348240}}
+```
+
+## Authors
+
+- Areeg Fahad
+- M. Zarkoosh
+- Safa F. Abbas
+
