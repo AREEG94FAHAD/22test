@@ -1,8 +1,9 @@
 # Evaluating Encryption Elgorithms
 This repository contains a program for evaluating encryption algorithms by running them through 22 tests. The program details can be found in the pre-print version of the paper titled [Comprehensive Evaluation of Encryption Algorithms: A Study of 22 Performance Tests](https://github.com/AREEG94FAHAD/22test/blob/main/the_paper.pdf).
 
-# Program Description
+<img src="https://github.com/AREEG94FAHAD/22test/assets/30151596/7c80fc75-5d72-4b8b-8bea-d8c84bd1d005" alt="software" width="200" height="200">
 
+# Program Description
 ### 1. Running the Program
 To run the program, first download it from the Google Drive [using this link](https://drive.google.com/file/d/1icI-ftp9BzGXkuoTDHydd3cFV9b6dsH0/view?usp=drive_link).
 
